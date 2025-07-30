@@ -1,4 +1,4 @@
-# **InventoryMaster - Java Inventory Management System**  
+# **Java Inventory Management System**  
 **File:** `InventorySystem.java`  
 
 ### **Core Features**  
